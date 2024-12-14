@@ -1,0 +1,105 @@
+body {
+    
+    /* font-family: 'Arial', sans-serif; */
+    /* margin:-5px; */
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.lines{
+    position :absolute;
+    padding:250px 390px;
+    
+}
+ 
+  
+ul{
+    text-align: center;
+   
+    
+}
+.text-bar{
+   background-color:rgb(117, 5, 5);
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    text-align: bottom;
+    
+    
+}
+li {
+    display: inline-block;
+    text-align: right;
+    
+  }
+/*header {
+   background-color:rgb(26, 18, 18);
+    text-align: center;
+    padding: 20px 20;
+}
+*/
+
+h1, h2 {
+    color: #ccbec0;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    margin-top: 10px;
+}
+
+button {
+    background-color: #ce1d2c;
+    color: #fff;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #e90e0e;
+    color: rgb(7, 6, 6);
+    font-weight: bold;
+    text-align: center;
+    flex:0;
+    padding: 10px 0;
+    bottom: 0%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+#donorForm{
+    display: flex;
+
+}
+div.backg{
+    background-image:url(reg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+ 
+}
+div.h1{
+    opacity: 100%;
+
+}
